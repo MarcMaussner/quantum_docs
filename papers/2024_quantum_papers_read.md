@@ -11,6 +11,6 @@
   - Popovici, A., & Popovici, D. (2002, August). Cellular automata in image processing. In Fifteenth International Symposium on Mathematical Theory of Networks and Systems (Vol. 1, pp. 1-6).
   - R.N. Deepak, K.P. Prashanta, M. Amitav (2014). {A Survey on Two Dimensional Cellular Automata and Its Application in Image Processing. arXiv 1407.7626.
   - B. Aoun and M. Tarifi. Introduction to quantum cellular automata. Arxiv preprint quant-ph/0401123, 2004.
-  - 
+  - B. Decker (2022/2023). Implementation of a Classical Simulation of Quantum Cellular Automata on 1-D Lattices and using it to Improve the Tensor Network Algorithm TDVP
 # quantum fun:
   -
