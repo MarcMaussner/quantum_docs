@@ -12,5 +12,6 @@
   - R.N. Deepak, K.P. Prashanta, M. Amitav (2014). {A Survey on Two Dimensional Cellular Automata and Its Application in Image Processing. arXiv 1407.7626.
   - B. Aoun and M. Tarifi. Introduction to quantum cellular automata. Arxiv preprint quant-ph/0401123, 2004.
   - B. Decker (2022/2023). Implementation of a Classical Simulation of Quantum Cellular Automata on 1-D Lattices and using it to Improve the Tensor Network Algorithm TDVP
+  - J. Watrous, "On one-dimensional quantum cellular automata," Proceedings of IEEE 36th Annual Foundations of Computer Science, Milwaukee, WI, USA, 1995, pp. 528-537, doi: 10.1109/SFCS.1995.492583.
 # quantum fun:
   -
